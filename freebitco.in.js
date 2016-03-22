@@ -1,5 +1,5 @@
 /* Settings for the robot
- * This script can be used on the following website: https://freebitco.in (casino like)
+ * This script can be used on the following website: http://freebitco.in/?r=2275365
 */
 var start_value = '0.00000001',
 	stop_percentage = 0.001,        //Percentual value indicating when it's time to stop
