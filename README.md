@@ -43,3 +43,6 @@ By default it works under the assumption that you can double your bet each time 
 | 2             | 4       | 5               | 8               |  
 | 3             | 16      | 21              | 32              |   
 | 4             | 64      | 85              | 128             | 
+
+## Disclaimer
+This code is provided as it is without warranty of any kind, usage is at your own risk and it's strongly recomended that you know what you're doing before attempting to use it.
